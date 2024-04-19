@@ -6,6 +6,7 @@
 - `data` folder: documents raw data readings from ESP32S3 under different interaction circumstances.
     - P.S. reversed sensor: the wires are on the back.
 - `visualize.ipynb`: initial visualization of the raw data.
+- `stream3.py`: the main data streaming visualization script.
 
 ## Circuit Setup
 ![circuit](./img/circuit_setup.png)
